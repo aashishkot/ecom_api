@@ -1,0 +1,410 @@
+
+[
+{
+"id": "SYM0101",
+"name": "Hansen Vitamin C Cleanser",
+"brand": "Symbelle",
+"description": "Experience ultimate hydration and rejuvenation with our luxurious Vitamin C facial cleanser.",
+"price": 49.99,
+"offerprice": 30.99,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"skin care"
+],
+"sale": true,
+"largeImages": [
+"/products/product__5.webp",
+"/products/product__5.webp"
+],
+"thumbnailImages": [
+"/products/product__5.webp",
+"/products/product__5.webp"
+],
+"variants": [
+{
+"sku": "SYM0101-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Hydrates and moisturizes",
+"Reduces fine lines and wrinkles",
+"Evens out skin tone",
+"Suitable for all skin types"
+],
+"ratings": {
+"average": 4,
+"count": 120
+},
+"reviews": [
+{
+"user": "JaneDoe",
+"rating": 5,
+"comment": "Absolutely love this cleanser! My skin feels amazing after just a few uses."
+},
+{
+"user": "BeautyFan123",
+"rating": 4,
+"comment": "Works well, but the price is a bit high for the size."
+},
+{
+"user": "SkinCareAddict",
+"rating": 5,
+"comment": "This cleanser has become a staple in my skincare routine. Highly recommend!"
+}
+],
+"howToUse": "Read the instructions on the product pack for optimal usage."
+},
+{
+"id": "SYM0102",
+"name": "Lead Gel Nail Polish",
+"brand": "Symbelle",
+"description": "Achieve stunning nails with our Lead Gel Nail Polish. Long-lasting and vibrant colors.",
+"price": 49.99,
+"offerprice": 30.99,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"nail polish"
+],
+"sale": false,
+"largeImages": [
+"/products/product__6.webp",
+"/products/product__6.webp"
+],
+"thumbnailImages": [
+"/products/product__6.webp",
+"/products/product__6.webp"
+],
+"variants": [
+{
+"sku": "SYM0102-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Long-lasting formula",
+"Vibrant colors",
+"Professional finish"
+],
+"ratings": {
+"average": 5,
+"count": 90
+},
+"reviews": [
+{
+"user": "NailArtFanatic",
+"rating": 5,
+"comment": "Love the color selection and how long it lasts!"
+},
+{
+"user": "ManiLover",
+"rating": 4,
+"comment": "Great polish, but it takes a bit longer to dry than expected."
+},
+{
+"user": "NailAddict23",
+"rating": 4,
+"comment": "Beautiful shades, but chips a little sooner than I'd like."
+}
+],
+"howToUse": "Apply a base coat, two coats of polish, and finish with a top coat for best results."
+},
+{
+"id": "SYM0103",
+"name": "Washable Lead Gel Nail Polish",
+"brand": "Symbelle",
+"description": "Get gorgeous nails with our Washable Lead Gel Nail Polish. Easy to apply and remove.",
+"price": 179.99,
+"offerprice": 130.99,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"nail polish"
+],
+"sale": true,
+"largeImages": [
+"/products/product__12.webp",
+"/products/product__12.webp"
+],
+"thumbnailImages": [
+"/products/product__12.webp",
+"/products/product__12.webp"
+],
+"variants": [
+{
+"sku": "SYM0103-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Easy to apply",
+"Quick-drying",
+"Removes easily with nail polish remover"
+],
+"ratings": {
+"average": 2,
+"count": 110
+},
+"reviews": [
+{
+"user": "QuickNails",
+"rating": 5,
+"comment": "Love how easy it is to remove without damaging my nails!"
+},
+{
+"user": "BusyBee",
+"rating": 4,
+"comment": "Convenient for quick touch-ups, but wish it lasted longer."
+},
+{
+"user": "NailsOnFleek",
+"rating": 5,
+"comment": "Great for when I want to change my nail color frequently!"
+}
+],
+"howToUse": "Apply a base coat, two coats of polish, and finish with a top coat for best results."
+},
+{
+"id": "SYM0104",
+"name": "Xtreme Wear Nail Polish",
+"brand": "Symbelle",
+"description": "Experience bold and long-lasting nail colors with our Xtreme Wear Nail Polish range.",
+"price": 279.99,
+"offerprice": 200.99,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"nail polish"
+],
+"sale": true,
+"largeImages": [
+"/products/product__14.webp",
+"/products/product__14.webp"
+],
+"thumbnailImages": [
+"/products/product__14.webp",
+"/products/product__14.webp"
+],
+"variants": [
+{
+"sku": "SYM0104-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Bold colors",
+"Long-lasting formula",
+"Professional finish"
+],
+"ratings": {
+"average": 4,
+"count": 100
+},
+"reviews": [
+{
+"user": "ColorEnthusiast",
+"rating": 5,
+"comment": "Love the intense colors and how long they last!"
+},
+{
+"user": "NailLover",
+"rating": 4,
+"comment": "Great polish, but wish there were more shades available."
+},
+{
+"user": "ManiPediQueen",
+"rating": 4,
+"comment": "Goes on smoothly, but chips a bit sooner than expected."
+}
+],
+"howToUse": "Apply a base coat, two coats of polish, and finish with a top coat for best results."
+},
+{
+"id": "SYM0105",
+"name": "Glam Liquid Eyeshadow",
+"brand": "Symbelle",
+"description": "Add a touch of glamour to your look with our Glam Liquid Eyeshadow. Long-lasting and highly pigmented.",
+"price": 579.99,
+"offerprice": 499,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"eye shadow"
+],
+"sale": false,
+"largeImages": [
+"/products/product__21.webp",
+"/products/product__21.webp"
+],
+"thumbnailImages": [
+"/products/product__21.webp",
+"/products/product__21.webp"
+],
+"variants": [
+{
+"sku": "SYM0105-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Highly pigmented",
+"Long-lasting formula",
+"Easy to apply"
+],
+"ratings": {
+"average": 3,
+"count": 130
+},
+"reviews": [
+{
+"user": "GlamGal",
+"rating": 5,
+"comment": "Absolutely stunning colors! They stay put all day."
+},
+{
+"user": "MakeupFanatic",
+"rating": 4,
+"comment": "Love the pigmentation, but it takes a bit longer to dry."
+},
+{
+"user": "SparkleQueen",
+"rating": 5,
+"comment": "Gorgeous shades and lasts through the night!"
+}
+],
+"howToUse": "Apply directly to eyelids using the applicator wand and blend with fingertips for desired look."
+},
+{
+"id": "SYM0106",
+"name": "Arabica Coffee Scrub",
+"brand": "Symbelle",
+"description": "Rejuvenate your skin with our Arabica Coffee Scrub. Exfoliates and moisturizes for silky smooth skin.",
+"price": 389.99,
+"offerprice": 299,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"skin care"
+],
+"sale": true,
+"largeImages": [
+"/products/product__25.webp",
+"/products/product__25.webp"
+],
+"thumbnailImages": [
+"/products/product__25.webp",
+"/products/product__25.webp"
+],
+"variants": [
+{
+"sku": "SYM0106-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Exfoliates dead skin cells",
+"Moisturizes",
+"Leaves skin soft and smooth"
+],
+"ratings": {
+"average": 5,
+"count": 150
+},
+"reviews": [
+{
+"user": "CoffeeLover",
+"rating": 5,
+"comment": "Smells amazing and leaves my skin feeling incredibly soft!"
+},
+{
+"user": "SkincareJunkie",
+"rating": 4,
+"comment": "Great scrub, but wish it came in a bigger size."
+},
+{
+"user": "SmoothSkinFan",
+"rating": 5,
+"comment": "My go-to for smooth, glowing skin!"
+}
+],
+"howToUse": "Apply to damp skin in a circular motion, then rinse off thoroughly. Use 2-3 times per week for best results."
+},
+{
+"id": "SYM0107",
+"name": "Touch Keratosis Pilaris",
+"brand": "Symbelle",
+"description": "Smooth rough, bumpy skin with our Touch Keratosis Pilaris treatment. Reveals softer, smoother skin.",
+"price": 389.99,
+"offerprice": 299,
+"discount": 10,
+"quantity": 10,
+"currency": "INR",
+"category": [
+"skin care"
+],
+"sale": true,
+"largeImages": [
+"/products/product__34.webp",
+"/products/product__34.webp"
+],
+"thumbnailImages": [
+"/products/product__34.webp",
+"/products/product__34.webp"
+],
+"variants": [
+{
+"sku": "SYM0107-S",
+"size": "Small",
+"price": 39.99,
+"stock": 20
+}
+],
+"features": [
+"Smooths rough, bumpy skin",
+"Gently exfoliates",
+"Improves skin texture"
+],
+"ratings": {
+"average": 3,
+"count": 140
+},
+"reviews": [
+{
+"user": "SmoothSkinSeeker",
+"rating": 5,
+"comment": "Finally found something that works for my KP! Skin feels so much smoother."
+},
+{
+"user": "BumpySkinNoMore",
+"rating": 4,
+"comment": "Noticeable improvement in skin texture after just a few uses."
+},
+{
+"user": "KPWarrior",
+"rating": 5,
+"comment": "Life-changing product for anyone struggling with KP!"
+}
+],
+"howToUse": "Apply to affected areas daily, focusing on rough or bumpy areas. Use consistently for best results."
+}
+]
